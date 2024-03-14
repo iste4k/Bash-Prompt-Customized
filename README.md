@@ -24,4 +24,4 @@ export PS1="\e[1;32m[\t] $ \e[0m"
 
 in the last new line.
 
-Then, `Ctrl` + `o`. After that, `Ctrl` + `x`.
+Then, `Ctrl` + `o`. After that, `Ctrl` + `x` to save the file.
